@@ -1,5 +1,6 @@
 
-Infrastructure as Code Basics
+01-Infrastructure-as-Code-IaC-Basics
+
 Step-01: Understand Problems with Traditional way of Managing Infrastructure
 •	Time it takes for building multiple environments
 •	Issues we face with different environments
